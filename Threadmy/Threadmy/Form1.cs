@@ -129,7 +129,7 @@ namespace Threadmy
 
             e_thread.Start(200);
 
-            i_thread.Start(490);
+            i_thread.Start(300);
 
             b_thread.Join();
 
